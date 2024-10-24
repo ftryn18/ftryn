@@ -1,1 +1,1 @@
-# ftryn.io
+# ftryn.github.io
