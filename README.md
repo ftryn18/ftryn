@@ -1,1 +1,1 @@
-# ftryn
+# ftryn.io
